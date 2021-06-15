@@ -20,7 +20,7 @@ function getRomanValue () {
     .then(reply => reply.json())
     .then(dataLoaded => {
         let givenRomanValue = dataLoaded.contents.translated;
-        console.log(givenRomanValue);
+        outputPart.innerHTML = getRomanValue;
     })
     .catch(errorHandler);
 }
