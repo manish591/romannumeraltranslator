@@ -1,5 +1,5 @@
 # RomanNumeralTranslator
-This is a CLI app build using Node JS. This app will translate your numbers to roman numbers very quickly. Do check this out.
+This is app build using JS. This app will translate your numbers to roman numbers very quickly. Do check this out.
 
 # Live Demo
 You can check this app here https://romannumeraltranslator.netlify.app/
